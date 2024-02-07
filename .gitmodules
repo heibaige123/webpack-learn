@@ -1,0 +1,6 @@
+[submodule "webpack"]
+	path = webpack
+	url = git@github.com:heibaige123/webpack.git
+[submodule "webpack-cli"]
+	path = webpack-cli
+	url = git@github.com:heibaige123/webpack-cli.git

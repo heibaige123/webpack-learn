@@ -1,0 +1,39 @@
+{
+    "files.exclude": {
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+
+        "**/.editorconfig": true,
+        // "**/.git*": true,
+        "**/.husky": true,
+
+        "**/*yarn*": true,
+        // "**/*prettier*": true,
+        "**/*codecov*": true,
+        "**/*eslint*": true,
+        "**/jest*": true,
+        "**/CHANGELOG.md": true,
+        "**/open-bot*": true,
+
+        "**/azure-pipelines.yml": true,
+        "**/cspell.json": true,
+        "**/.cspell.json": true,
+        "**/LICENSE": true,
+        "**/.npmrc": true,
+        "**/.istanbul.yml": true,
+        "**/SECURITY.md": true,
+        "**/CODEOWNERS": true,
+
+        "**/CODE_OF_CONDUCT.md": true,
+        "**/CONTRIBUTING.md": true,
+        "**/OPTIONS.md": true,
+        "**/.nycrc": true,
+
+
+
+        "**/test": true
+    }
+}

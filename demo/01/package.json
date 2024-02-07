@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "webpack",
+    "cli": "node ../../webpack/bin/webpack.js",
+    "dev": "npm run cli"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.1"
+  }
+}
